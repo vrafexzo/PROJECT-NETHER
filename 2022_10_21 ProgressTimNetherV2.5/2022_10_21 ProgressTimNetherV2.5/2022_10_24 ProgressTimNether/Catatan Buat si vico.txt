@@ -1,0 +1,30 @@
+fitur-fitur
+
+catatan untuk vico
+
+sori gw kerjainnya udh kemaleman, cek aja dulu semua dan bilang kamu suka atau engga
+
+ini bawah link semua foto (ge belum sempat jadiin komen)
+
+link foto
+1. minimalis dengan kekuatan yang hebat
+https://laptopmedia.com/wp-content/uploads/2021/08/lenovolegion515amd2021featured-680x383.jpg
+2. akan tetap dingin
+https://i.ytimg.com/vi/yHPJOLCnOqc/maxresdefault.jpg
+
+3. Kualitas audio yang hebat
+https://www.whathifi.id/wp-content/uploads/2020/11/maxresdefault.jpg
+
+4. layar full HD yang hebat
+https://cdn.shopify.com/s/files/1/0355/8296/7943/files/lenovo-laptop-legion-5-15-amd-subseries-feature-3_1ecfdb57-bcfe-4dec-99f7-d7351755acf3.png?v=1628834144
+5. Legion Ultimate Support
+https://asset-a.grid.id/crop/0x0:0x0/x/photo/2021/04/14/legion-ultimate-supportjpg-20210414121508.jpg
+
+sisa hal yang harus dikerjain
+1. buat href untuk "Fitur" dan "Masih Belum Percaya"
+jika di klik maka akan pindah ke bagian yang judulnya itu
+
+2. href untuk "Kembali Ke Atas" dan "Kembali Ke Halaman Utama"
+Kembali ke atas jika di klik maka akan ke atas sedangkan Kembali Ke Halaman Utama akan pergi ke page utama(index)
+
+3. kalo emg suka, hias lagi aja sepuasnya tapi hati-hati ama tablenya dan kalo menurut lu ada yang kurang tambahin/edit aja
